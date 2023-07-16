@@ -1,0 +1,6 @@
+print ("Welcome to the Tip Calculator.")
+total = float (input ("What was the total bill? $"))
+n = int (input ("How many people to split the bill? "))
+percent = int (input ("What percentage tip would you like to give? 10, 12, or 15? "))
+sum = round(((total + ((percent/100) * total)) / n), 2)
+print (f"Each person should pay: ${sum}")
