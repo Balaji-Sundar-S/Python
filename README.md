@@ -9,3 +9,6 @@ This repository offers a collection of engaging and enjoyable simple Python proj
 * Hangman Game
 * Caesar Cipher Encryption and Decryption
 * Secret Auction
+* Calculator
+* BalckJack Game
+* Number Guessing Game
