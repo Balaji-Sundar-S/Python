@@ -12,3 +12,5 @@ This repository offers a collection of engaging and enjoyable simple Python proj
 * Calculator
 * BalckJack Game
 * Number Guessing Game
+* Coffee Machine
+* Quiz Project
