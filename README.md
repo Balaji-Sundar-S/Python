@@ -14,3 +14,7 @@ This repository offers a collection of engaging and enjoyable simple Python proj
 * Number Guessing Game
 * Coffee Machine
 * Quiz Project
+* Spirograph and Hirst-Painting
+* Turtle Race Game
+* Snake Game
+* Pong Game
